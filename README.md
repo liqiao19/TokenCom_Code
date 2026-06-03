@@ -66,13 +66,11 @@ pretrained_maskgit/
     last.ckpt
 ```
 
-The checkpoint files are very large, approximately 0.9-2.1 GB each, so they are excluded from this GitHub repository to avoid GitHub file-size and quota issues. Recommended ways to share them are:
+The checkpoint files are very large, approximately 0.9-2.1 GB each, so they are excluded from this GitHub repository to avoid GitHub file-size and quota issues.
 
-- Hugging Face Hub model files
-- Zenodo / institutional research data archive
-- GitHub Releases with Git LFS, if quota is sufficient
+Download the pretrained weights from Hugging Face: [llvictorll/Maskgit-pytorch](https://huggingface.co/llvictorll/Maskgit-pytorch/tree/main).
 
-After downloading or preparing the checkpoints, place them in the paths shown above. The demo notebook currently uses `MaskGIT_ImageNet_256.pth` by default.
+After downloading the checkpoints, place them in the paths shown above. The demo notebook currently uses `MaskGIT_ImageNet_256.pth` by default.
 
 ## Data
 
@@ -95,7 +93,7 @@ The notebook evaluates reconstruction quality across SNR levels and reports metr
 
 ## Acknowledgements
 
-This release gratefully acknowledges the open-source MaskGIT implementation and pretrained-model resources from [Halton-MaskGIT](https://github.com/valeoai/Halton-MaskGIT/tree/v1.0). The TokCom demo builds on the broader open-source VQGAN/MaskGIT ecosystem.
+This project acknowledges the open-source MaskGIT resources from [Halton-MaskGIT](https://github.com/valeoai/Halton-MaskGIT/tree/v1.0).
 
 ## Citation
 
