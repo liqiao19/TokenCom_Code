@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated IEEE Wireless Communications paper."
+title: "TokenCom Code"
+license: MIT
+authors:
+  - family-names: Qiao
+    given-names: Li
+  - family-names: Mashhadi
+    given-names: Mohammad B.
+  - family-names: Gao
+    given-names: Zhen
+  - family-names: Tafazolli
+    given-names: Rahim
+  - family-names: Bennis
+    given-names: Mehdi
+  - family-names: Niyato
+    given-names: Dusit
+preferred-citation:
+  type: article
+  title: "Token Communications: A Large Model-Driven Framework for Cross-Modal Context-Aware Semantic Communications"
+  authors:
+    - family-names: Qiao
+      given-names: Li
+    - family-names: Mashhadi
+      given-names: Mohammad B.
+    - family-names: Gao
+      given-names: Zhen
+    - family-names: Tafazolli
+      given-names: Rahim
+    - family-names: Bennis
+      given-names: Mehdi
+    - family-names: Niyato
+      given-names: Dusit
+  journal: "IEEE Wireless Communications"
+  volume: "32"
+  issue: "5"
+  start: 80
+  end: 88
+  year: 2025
+  doi: "10.1109/MWC.001.2500084"

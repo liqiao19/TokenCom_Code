@@ -179,3 +179,17 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# TokenCom public-release rules
+pip install.txt
+*.pth
+*.ckpt
+*.pt
+*.onnx
+pretrained_maskgit/MaskGIT/*.pth
+pretrained_maskgit/VQGAN/*.ckpt
+Dataset/
+data/
+datasets/
+outputs/
+results/
