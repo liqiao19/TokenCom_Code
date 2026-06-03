@@ -100,16 +100,17 @@ This project acknowledges the open-source MaskGIT resources from [Halton-MaskGIT
 If you use this code, please cite:
 
 ```bibtex
-@article{qiao2025tokencom,
-  title   = {Token Communications: A Large Model-Driven Framework for Cross-Modal Context-Aware Semantic Communications},
-  author  = {Qiao, Li and Mashhadi, Mohammad B. and Gao, Zhen and Tafazolli, Rahim and Bennis, Mehdi and Niyato, Dusit},
-  journal = {IEEE Wireless Communications},
-  volume  = {32},
-  number  = {5},
-  pages   = {80--88},
-  year    = {2025},
-  doi     = {10.1109/MWC.001.2500084}
-}
+@ARTICLE{qiao2025tokencom,
+  author={Qiao, Li and Mashhadi, Mahdi Boloursaz and Gao, Zhen and Tafazolli, Rahim and Bennis, Mehdi and Niyato, Dusit},
+  journal={IEEE Wireless Communications}, 
+  title={Token Communications: A Large Model-Driven Framework for Cross-Modal Context-Aware Semantic Communications}, 
+  year={2025},
+  volume={32},
+  number={5},
+  pages={80-88},
+  keywords={Token networks;Large language models;Context awareness;Semantic communication;Transmitters;Spectral efficiency;Context modeling;Complexity theory;Transformers},
+  doi={10.1109/MWC.001.2500084}}
+
 ```
 
 ## License
